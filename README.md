@@ -179,7 +179,7 @@ Through this project, you will learn:
 - Session Management Basics
 - Web Application Deployment using Tomcat
 
-**##Author**
+##Author
 
 Deepika Gudipati
 
