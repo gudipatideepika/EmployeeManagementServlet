@@ -135,22 +135,7 @@ git clone https://github.com/your-username/EmployeeManagementServlet.git
 http://localhost:8080/EmployeeManagementServlet/
 
 
-**Screenshots**
 
-- Home Page
-- <img width="1817" height="837" alt="Screenshot 2026-07-05 105239" src="https://github.com/user-attachments/assets/b8388ff4-8feb-48d3-9591-10ceeadf686b" />
-
-- Add Employee
-<img width="1640" height="845" alt="Screenshot 2026-07-05 105301" src="https://github.com/user-attachments/assets/1237eef9-5e00-4130-b1e6-e3875fa753f6" />
-
-- View Employees
-<img width="1822" height="832" alt="Screenshot 2026-07-05 105321" src="https://github.com/user-attachments/assets/6db2e06a-31af-421b-9b9a-8d0fc2826fff" />
-
-- Update Employee
-<img width="1781" height="855" alt="Screenshot 2026-07-05 105339" src="https://github.com/user-attachments/assets/038a3788-e76e-4730-9280-1ba70862a95e" />
-
-- Delete Employee
-<img width="1800" height="842" alt="Screenshot 2026-07-05 105354" src="https://github.com/user-attachments/assets/5c5e4ddc-6fe9-407f-b02a-010ca7e127f0" />
 
 
 ## CRUD Operations
@@ -194,7 +179,7 @@ Through this project, you will learn:
 - Session Management Basics
 - Web Application Deployment using Tomcat
 
-**Author**
+**##Author**
 
 Deepika Gudipati
 
